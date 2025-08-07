@@ -1,4 +1,4 @@
-echo "PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre-installed desktop environment and with internet and multimedia apps based on Ubuntu LTS. Now featuring MATE Desktop"
+echo "PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre-installed desktop environment and with internet and multimedia apps based on Ubuntu LTS. Now featuring LXDE Desktop"
 echo
 echo "Default username is 'portadesx'"
 echo "Default 'sudo' password is '123'"
