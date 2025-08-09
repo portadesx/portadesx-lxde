@@ -63,7 +63,7 @@ jobs:
         sudo chroot $GITHUB_WORKSPACE/portadesx-lxde-2404 /bin/bash -c "ln -s /usr/share/applications/galculator.desktop /home/portadesx/Desktop/galculator.desktop"
         sudo chroot $GITHUB_WORKSPACE/portadesx-lxde-2404 /bin/bash -c "ln -s /usr/share/applications/gpicview.desktop /home/portadesx/Desktop/gpicview.desktop"
         sudo chroot $GITHUB_WORKSPACE/portadesx-lxde-2404 /bin/bash -c "ln -s /usr/share/applications/xarchiver.desktop /home/portadesx/Desktop/xarchiver.desktop"
-        sudo chroot $GITHUB_WORKSPACE/portadesx-2404 /bin/bash -c "ln -s /usr/share/applications/org.xfce.mousepad.desktop /home/portadesx/Desktop/org.xfce.mousepad.desktop"
+        sudo chroot $GITHUB_WORKSPACE/portadesx-lxde-2404 /bin/bash -c "ln -s /usr/share/applications/org.xfce.mousepad.desktop /home/portadesx/Desktop/org.xfce.mousepad.desktop"
         sudo chroot $GITHUB_WORKSPACE/portadesx-lxde-2404 /bin/bash -c "ln -s /usr/share/applications/lxterminal.desktop /home/portadesx/Desktop/lxterminal.desktop"
     - name: Unmount important filesystem
       run: |
