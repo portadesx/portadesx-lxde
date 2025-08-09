@@ -18,6 +18,8 @@ echo "On RealVNC, add new connection, give it a name and enter default VNC serve
 echo "Start it and enter default password"
 echo "Use 'exit' commands if you wish to log-out from proot shell and back to termux shell, remember that this will stopping VNC server."
 echo
+echo "If you find out the warning when tried to launching application on desktop, simply click 'execute' since this warning aren't critical or dangerous."
+echo 
 echo "To use offline office document editing, install this extension from chromium browser"
 echo "https://chromewebstore.google.com/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj"
 echo "Once installed,you just need to drag-and-drop documents from file manager to chromium browser window to edit it offline."
@@ -26,4 +28,4 @@ echo "For updating your system (Not related to upgrading to next release), use '
 echo "press y and enter to confirm update, or press n and enter to abort"
 echo "Don't worry, this update doesn't need reboot, run automatically without notice, or forcefully reboot and making you lose your works or progress ;)"
 echo 
-echo "For further information, intructions for upgrading to next release, or just more detailed how-tos, please visit our repository at https://github.com/arfshl/portadesx-lxde"
+echo "For further information, intructions for upgrading to next release, or just more detailed how-tos, please visit our repository at https://github.com/portadesx/portadesx-lxde"
