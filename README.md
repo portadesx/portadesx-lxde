@@ -15,10 +15,10 @@ PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre
 - [Chromium Web Browser](https://chromium.org)
 - [Mozilla Thunderbird](https://thunderbird.net)
 - [VLC Media Player](https://www.videolan.org/vlc/)
-- [Evince Document Viewer](https://wiki.gnome.org/Apps/Evince)
+- [Evince PDF Viewer](https://wiki.gnome.org/Apps/Evince)
 - [gpicview Image Viewer](https://github.com/lxde/gpicview)
 - [Mousepad Text Editor](https://docs.xfce.org/apps/mousepad/start)
-- [Xarchiver Archive Manager](https://github.com/ib/xarchiver)
+- [Xarchiver File Archiver](https://github.com/ib/xarchiver)
 - [Galculator](https://launchpad.net/ubuntu/+source/galculator)
 - Chromium shortcut to Microsoft Office Online, see [docs](https://github.com/portadesx/portadesx/blob/main/docs%2FREADME.md) for offline alternative
 
