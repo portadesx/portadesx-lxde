@@ -30,7 +30,7 @@ X11 session excells speed so you can expect no lagging on gestures or video play
 ### Apps launch warning
 If you find out the warning when tried to launching application on desktop like this, simply click 'execute' since this warning aren't critical or dangerous.
 
-
+![](https://github.com/portadesx/portadesx-screenshots/raw/main/24.04/lxde/warning.jpg)
 
 ### Update existing installation 
 Usually that's always can be done with `sudo apt update && sudo apt upgrade -y` but stay keep tracks on release note, who knows that we can be including our own feature ontop of that
