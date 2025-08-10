@@ -20,7 +20,7 @@
 ### Default user password and vnc credentials 
 - Default user is `portadesx`
 - Default `sudo` password is `123`
-- Default VNC server address is `127.0.0.1:4`
+- Default VNC server address is `127.0.0.1:2`
 - Default VNC password is `1234567890`
 
 ### Apps launch warning
