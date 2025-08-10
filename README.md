@@ -4,7 +4,7 @@ PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre
 
 ### Core Features:
 
-- Pre-installed LXDE Desktop 
+- Pre-installed [LXDE](http://lxde.org) Desktop 
 - Pre-configured Sound, User, and VNC Server with easy command
 - Pre-installed Apps
 - Pre-configured access to android files
