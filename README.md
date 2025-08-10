@@ -23,7 +23,9 @@ PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre
 - Chromium shortcut to Microsoft Office Online, see [docs](https://github.com/portadesx/portadesx/blob/main/docs%2FREADME.md) for offline alternative
 
 ### Screenshots
-
+![](https://github.com/portadesx/portadesx-screenshots/raw/main/24.04/lxde/desktop.jpg)
+![](https://github.com/portadesx/portadesx-screenshots/raw/main/24.04/lxde/app1.jpg)
+![](https://github.com/portadesx/portadesx-screenshots/raw/main/24.04/lxde/vnc.jpg)
 
 ### Minimum System Requirements
 - Android 8.0+ (Fixes for error code [Process completed (signal 9) - press Enter] for Android 12+ can be see [here](https://github.com/agnostic-apollo/Android-Docs/blob/master/en/docs/apps/processes/phantom-cached-and-empty-processes.md#internal-details-for-android-14-and-higher))
