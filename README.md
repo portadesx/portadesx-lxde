@@ -15,7 +15,7 @@ PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre
 - [Chromium Web Browser](https://chromium.org)
 - [Mozilla Thunderbird](https://thunderbird.net)
 - [VLC Media Player](https://www.videolan.org/vlc/)
-- [Evince PDF Viewer](https://wiki.gnome.org/Apps/Evince)
+- [Evince PDF Viewer](https://apps.gnome.org/Evince/)
 - [gpicview Image Viewer](https://github.com/lxde/gpicview)
 - [Mousepad Text Editor](https://docs.xfce.org/apps/mousepad/start)
 - [Xarchiver File Archiver](https://github.com/ib/xarchiver)
