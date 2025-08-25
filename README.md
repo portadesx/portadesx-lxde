@@ -42,15 +42,15 @@ PortadesX:LXDE is a 'Flavor' of PortadesX, a Termux proot-distro rootfs with pre
 
 ### Install 
 
-    apt update && apt upgrade && apt install wget -y && wget https://raw.githubusercontent.com/portadesx/portadesx-lxde/refs/heads/main/scripts/setup.sh && sh setup.sh && rm setup.sh
+    apt update && apt install wget -y && wget https://raw.githubusercontent.com/portadesx/portadesx-lxde/refs/heads/main/scripts/setup.sh && sh setup.sh && rm setup.sh
 
 ### Install (Parallel install with other flavors)
 
-    apt update && apt upgrade && apt install wget -y && wget https://raw.githubusercontent.com/portadesx/portadesx-lxde/refs/heads/main/scripts/setup-parallels.sh && sh setup-parallels.sh && rm setup-parallels.sh
+    apt update && apt install wget -y && wget https://raw.githubusercontent.com/portadesx/portadesx-lxde/refs/heads/main/scripts/setup-parallels.sh && sh setup-parallels.sh && rm setup-parallels.sh
 
 ### Uninstall
 
-    apt update && apt upgrade && apt install wget -y && wget https://raw.githubusercontent.com/portadesx/portadesx-lxde/refs/heads/main/scripts/uninstall.sh && sh uninstall.sh && rm uninstall.sh
+    apt update && apt install wget -y && wget https://raw.githubusercontent.com/portadesx/portadesx-lxde/refs/heads/main/scripts/uninstall.sh && sh uninstall.sh && rm uninstall.sh
 
 ### Uninstall (Parallel install with other flavors)
 
